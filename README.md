@@ -15,6 +15,6 @@
 * HomeActivity.java在此路径下：
 * 360-VideoPlayer\pano360demo\src\main\java\com\martin\ads\pano360demo\HomeActivity.java
 
-* TouchHelper：根据手指滑动来改变Viewport的class在此路径下：
+* TouchHelper根据手指滑动来改变Viewport的class在此路径下：
 * 360-VideoPlayer\vrlib\src\main\java\com\martin\ads\vrlib\TouchHelper.java
 
